@@ -1,8 +1,8 @@
 # prod
-langchain-openai
+langchain-openai==0.3.16
 langchain
-langchain-core
-langgraph
+langchain-core==0.3.59
+langgraph==0.4.3
 langsmith
 python-dotenv
 pydantic
