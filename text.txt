@@ -1,0 +1,506 @@
+documents: FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 1
+
+**General Facts**:
+- Name: [REDACTED]
+- DOB: 12/07/1989
+- Age: 35 (calculated as of 04/30/2025)
+- Gender: Male
+
+**Prescription Usage**:
+- Current prescription: Relpax, 20 mg PO once as needed for migraine headache
+
+**Medical Conditions**:
+- Dyspepsia: Reported as chief complaint during office visit on 01/24/2024
+- Digestive issues: Episodic abdominal pain, diarrhea, bloating, and gas reported over the past 4 years, occurring 5-12 times per year. Last episode on 12/31/2023.
+
+**Other Considerations**:
+- Diagnostics: Patient denies blood in stool, specific food triggers, and diarrhea at present. Describes abdominal pain as sharp above the belly button, episodic gas and bloating, and rare vomiting.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 2
+
+**General Facts:**
+- Name: Not provided
+- Age: 35 (DOB: 12/07/1989, calculated as of 04/30/2025)
+- Gender: Not provided
+- Height: Not provided
+- Weight: Not provided
+- Occupation: Not provided
+- BMI: Not provided
+- Insurance products: Not mentioned
+
+**Medical Conditions:**
+- Dyspepsia (ICD-10: K30): Episodic abdominal pain, bloating, diarrhea, frequent bowel movements every 1.5 months for the past 4 years. Episodes occur 5-12 times per year.
+
+**Family History:**
+- Older brother diagnosed with H. pylori and has food sensitivity.
+
+**Other Considerations:**
+- Diagnostics: Helicobacter pylori Urea Breath Test planned.
+- Favorable Factors: No daily medications, NKDA (No Known Drug Allergies).
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 4
+
+**Date of the Report:**
+- 01/17/2024
+
+**General Facts:**
+- Age: 33 (calculated from the date of service and the current date, assuming birth year is 1990).
+- Gender: Male
+
+**Medical Conditions:**
+- Right ear fullness for 1.5 weeks, noticed after swimming. No acute pain, improving.
+- Right wrist pain following a FOOSH (Fall On Outstretched Hand) off bike on 08/08/2023. Intermittent discomfort with activity such as push-ups and tennis.
+
+**Other Considerations:**
+- Diagnostics: No acute symptoms reported for ear fullness (denies fever, chills, nausea, vomiting, ear pain, tooth pain, tinnitus, change in vision, dizziness, vertigo, headache, or loss of consciousness).
+
+--------------------------------------------------------
+
+**Filename**: Client_MedicalRecords.pdf
+**Page Number**: 5
+
+**Date of the Report**:
+- 10/17/2023
+
+**General Facts**:
+- Gender: Male
+- Occupation: Right-hand dominant (RHD)
+
+**Substance Usage**:
+- Risky alcohol use (F10.10)
+
+**Medical Conditions**:
+- Migraine headache(s) with aura (G43.109):
+  - Onset: Age 18
+  - Frequency: 2-5 per year
+  - Symptoms: Aura causing temporary vision loss in one or both eyes
+  - Known triggers: Sleep, hydration, fluorescent lighting
+  - Management history: Failed rizatriptan (caused side effects like feeling "loopy")
+  - MRI results: Normal
+- Eustachian tube dysfunction, right ear (H69.81):
+  - Symptoms: Slight bulging of TM with faint erythema, no effusion
+  - Management: Flonase, saline nasal rinse, Sudafed, Zyrtec, Afrin for flights
+  - Follow-up instructions: Return if symptoms worsen or persist >1 week
+- Wrist pain, right wrist (M25.531):
+  - Cause: Fall off bike (FOOSH) on 08/08/2023 (~2.5 months ago)
+  - Symptoms: Discomfort with activity (e.g., push-ups, tennis), no baseline pain
+  - Exam findings: Unremarkable, low suspicion of active fracture or malunion
+  - Management: Rest, avoid aggravating activities, referral to PT, consider X-ray if worsening
+
+**Prescription Usage**:
+- Flonase: 1-2 sprays per nostril daily
+- Saline nasal rinse/Neti pot
+- Sudafed: For congestion
+- Zyrtec: PO daily for 2 weeks
+- Afrin: For upcoming flights
+
+**Other Considerations**:
+- Diagnostics:
+  - MRI for migraines: Normal
+- Favorable Factors:
+  - Denies pain at baseline for wrist injury
+  - No active symptoms for migraines at the time of visit
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 6
+
+**Date of the Report**:
+- 04/18/2023
+
+**General Facts**:
+- Age: 18 years old (age at onset of migraines, current age not provided)
+- Gender: Not specified
+- Occupation: Not specified
+
+**Substance Usage**:
+- Risky alcohol use (F10.10)
+
+**Medical Conditions**:
+- Migraine headaches with aura (G43.109):
+  - Starting at age 18
+  - Frequency: 2-5 migraines per year
+  - Symptoms: Aura includes inability to see out of one or both eyes
+  - Known triggers: Sleep, hydration, fluorescent lighting
+  - Management: MRI done (normal results), failed rizatriptan (caused adverse effects), currently using eletriptan PRN
+
+**Prescription Usage**:
+- Relpax (eletriptan) 20 mg PO as needed for migraine headaches
+
+**Other Considerations**:
+- Vaccinations:
+  - Influenza (egg-free, quadrivalent, preservative-free): 10/18/2022
+  - Influenza (egg-free, quadrivalent, with preservative): 12/29/2021
+  - Influenza (preservative-free): 09/2020
+  - SARS-CoV-2 mRNA (Moderna, 12+ yrs): 06/05/2022
+  - SARS-CoV-2 mRNA (Moderna, 12+ yrs) Booster, Bivalent (0.5 mL): 10/18/2022
+  - SARS-CoV-2 mRNA vaccine (Pfizer): 04/28/2021
+  - SARS-CoV-2 mRNA vaccine (Pfizer): 04/07/2021
+  - Tetanus & diphtheria (preservative-free): 01/2018
+
+--------------------------------------------------------
+
+**Filename**: Client_MedicalRecords.pdf
+**Page Number**: 7
+
+**General Facts**:
+- Name: Not provided
+- Age: Not provided
+- Gender: Not provided
+- Height: 74.5 inches
+- Weight: 208 lbs
+- BMI: 26.3 (calculated as overweight)
+- Occupation: Strategy for insurance companies
+
+**Substance Usage**:
+- Tobacco: Never smoker
+- Alcohol: 14 drinks per week
+- Substances: None
+
+**Labs and Measurements**:
+- Blood Pressure: 114/70 mmHg
+- Heart Rate: 48 bpm
+- Weight: 208 lbs
+- Height: 74.5 inches
+- BMI: 26.3
+
+**Medical Conditions**:
+- Migraine headaches with aura (G43.109):
+  - Frequency: 2-5 per year
+  - Management: Uses triptans, currently doing well with eletriptan
+  - Does not tolerate rizatriptan
+  - Triggers: Typically under hydration
+
+**Surgery History**:
+- Shoulder surgery due to dislocation in 2015
+
+**Family History**:
+- Mother: Alive and well, history of hysterectomy and diverticulosis
+- Father: Non-Hodgkin's lymphoma in early 40s
+- Maternal Grandfather: Deceased from colon cancer in his 60s
+- Denies: Myocardial infarction (MI), cerebrovascular accident (CVA), prostate cancer, testicular cancer
+
+**Other Considerations**:
+- **Favorable Factors**:
+  - Exercise: Tennis, mountain biking, road biking, stationary biking, walking, and weight lifting
+  - Diet: "Good, could be better," no restrictions
+  - Stress level: "Pretty good"
+  - Living situation: Lives with wife
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 8
+
+**Date of the Report**:
+- 02/24/2023
+
+**General Facts**:
+- No specific details provided regarding name, age, gender, height, weight, occupation, or BMI.
+
+**Substance Usage**:
+- No substance usage reported.
+
+**Labs and Measurements**:
+- No lab results or measurements provided.
+
+**Medical Conditions**:
+- Dyslipidemia: Low risk.
+- Diabetes: Low risk.
+- Depression Screening:
+  - PHQ-2 conducted on 06/02/2021 and 04/18/2023 (negative).
+  - Next PHQ-2 due on 04/18/2024.
+- No other common health conditions reported (e.g., Anxiety, Arthritis, Asthma, Cancer, COPD, Depression, Diabetes, Drug/alcohol dependence, heart disease, high blood pressure, kidney disease, liver disease).
+
+**Surgery History**:
+- Latarjet Shoulder Surgery (date not provided).
+
+**Prescription Usage**:
+- No current or past prescriptions reported.
+
+**Family History**:
+- No family history details provided.
+
+**Genetics**:
+- No genetic factors mentioned.
+
+**Other Considerations**:
+- Vaccination History:
+  - Tetanus: Last in 2018.
+  - Influenza: Encouraged.
+  - HPV: Not completed, patient declines.
+  - Hep B: Unknown.
+  - PCV 13 and PPSV 23: Due at age 65.
+  - Zoster: Due at age 50.
+- Lifestyle:
+  - Safety: Seatbelts, helmets, and safe sex reviewed.
+  - Nutrition: Recommended a varied diet high in fresh vegetables, fruits, lean protein, whole grains; limit sweets, fats, processed foods, refined carbs; choose healthy fats.
+  - Exercise: Discussed AHA guidelines of at least 150 minutes per week of moderate exercise or 75 minutes per week of vigorous exercise.
+- Social:
+  - Domestic violence: Denies.
+  - Intimate Partner Violence: Feels safe in home and relationship.
+
+--------------------------------------------------------
+
+**Filename**: Client_MedicalRecords.pdf
+**Page Number**: 9
+
+**Date of the Report**:
+- 12/31/2021
+
+**General Facts**:
+- Name: Ian Levinsky
+- Age: 35 (calculated from DOB 12/07/1989 as of 04/30/2025)
+- Gender: Male
+
+**Substance Usage**:
+- Tobacco use: Never used or smoked tobacco regularly
+
+**Family History**:
+- Cancer: Reported in a parent, sibling, or child
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf, PAGE_NUMBER: 10
+
+**Labs and Measurements:**
+- **SARS-CoV-2, NAA Test:** Not Detected (Date: Not explicitly mentioned, but test context suggests it was ordered on or around 12/29/2021).
+
+**Other Considerations:**
+- **Diagnostics:** SARS-CoV-2, NAA test result was negative (Not Detected).
+
+--------------------------------------------------------
+
+**Filename**: Client_MedicalRecords.pdf
+**Page Number**: 13
+
+**Date of the Report**:
+- 06/03/2021
+
+**General Facts**:
+- Name: Ian Levinsky
+- Age: 35 (calculated from birthdate 12/07/1989 as of 04/30/2025)
+- Gender: Male
+
+**Labs and Measurements**:
+- Glucose: 96 mg/dL (Reference Interval: 65-99)
+- BUN: 13 mg/dL (Reference Interval: 6-20)
+- Creatinine: 0.83 mg/dL (Reference Interval: 0.76-1.27)
+- eGFR If Non-African American: 117 mL/min/1.73 (Reference Interval: >59)
+- eGFR If African American: 136 mL/min/1.73 (Reference Interval: >59)
+- BUN/Creatinine Ratio: 16 (Reference Interval: 9-20)
+- Sodium: 141 mmol/L (Reference Interval: 134-144)
+- Potassium: 4.6 mmol/L (Reference Interval: 3.5-5.2)
+- Chloride: 104 mmol/L (Reference Interval: 96-106)
+- Carbon Dioxide, Total: 24 mmol/L (Reference Interval: 20-29)
+- Calcium: 9.3 mg/dL (Reference Interval: 8.7-10.2)
+- Protein, Total: 6.9 g/dL (Reference Interval: 6.0-8.5)
+- Albumin: 4.7 g/dL (Reference Interval: 4.0-5.0)
+- Globulin, Total: 2.2 g/dL (Reference Interval: 1.5-4.5)
+- A/G Ratio: 2.1 (Reference Interval: 1.2-2.2)
+- Bilirubin, Total: 0.9 mg/dL (Reference Interval: 0.0-1.2)
+- Alkaline Phosphatase: 82 U/L (Reference Interval: 48-121)
+- AST (SGOT): 20 U/L (Reference Interval: 0-40)
+- ALT (SGPT): 25 U/L (Reference Interval: 0-44)
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 14
+
+**Labs and Measurements**:
+- Total Cholesterol: 162 mg/dL (Reference Interval: 100-199)
+- Triglycerides: 52 mg/dL (Reference Interval: 0-149)
+- HDL Cholesterol: 79 mg/dL (Reference Interval: >39)
+- LDL Cholesterol: 72 mg/dL (Reference Interval: 0-99)
+- TSH: 1.420 uIU/mL (Reference Interval: 0.450-4.500)
+
+**Other Considerations**:
+- Diagnostics: Comprehensive metabolic panel, Lipid panel, Thyroid stimulating hormone, Complete blood count conducted on 06/02/2021.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 15
+
+**Labs and Measurements**:
+- Comprehensive metabolic panel ordered (no results provided).
+- Lipid panel ordered (no results provided).
+- Thyroid stimulating hormone test ordered (no results provided).
+- Complete blood count ordered (no results provided).
+
+**Other Considerations**:
+- Indications for lab tests include:
+  - Dyslipidemia screening needed (ICD-10: Z13.220).
+  - Thyroid disease screening needed (ICD-10: Z13.29).
+  - Palpitations (ICD-10: R00.2).
+  - Hyperbilirubinemia (ICD-10: R17).
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 16
+
+**Substance Usage**:
+- Alcohol consumption:
+  - Drinks containing alcohol consumed four or more times a week.
+  - Six or more drinks on one occasion consumed weekly.
+  - Typical day drinking includes 3 or 4 drinks.
+
+**Other Considerations**:
+- Physical activity:
+  - Engages in moderate to strenuous exercise 6 days per week.
+  - Each session lasts more than 75 minutes.
+- Diet & Nutrition:
+  - Eats out 4-6 times per week.
+  - Typical plate is 26-50% plant-based.
+  - Consumes sweetened beverages once per week or less.
+- Sleep:
+  - No problems falling or staying asleep.
+- Patient's Cantril Ladder ratings:
+  - Current rating: 7.
+  - 1-year rating: 8.
+- Patient rates their overall health as: Good.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 18
+
+**General Facts:**
+- Name: Not provided
+- Age: Not provided
+- Gender: Not provided
+- Height: 74.5 inches
+- Weight: 203 lbs
+- BMI: 25.7 (calculated as normal weight range)
+- Occupation: Strategy for insurance companies
+
+**Substance Usage:**
+- Tobacco: Never
+- Alcohol: 12-20 drinks per week
+- Substances: None
+
+**Labs and Measurements:**
+- Blood Pressure: 127/74
+- Heart Rate: 51 bpm
+- BMI: 25.7
+
+**Medical Conditions:**
+- Migraine headache(s) with aura (G43.109): Last occurrence 3-4 months ago, managed with triptans (eletriptan).
+- Risky alcohol use (F10.10): Risks reviewed with patient.
+
+**Surgery History:**
+- Shoulder surgery due to dislocation in 2015.
+
+**Family History:**
+- Mother: Alive, hysterectomy, diverticulosis.
+- Father: Non-Hodgkin's lymphoma in early 40s.
+- Maternal Grandfather: Deceased from colon cancer in his 60s.
+
+**Other Considerations:**
+- Diagnostics: Normal findings across general, HEENT, neck, lungs, CV, abdomen, MSK, neuro, psych, and skin exams.
+- Favorable Factors: Regular exercise (tennis, biking, walking), good living situation, feels safe at home, monogamous relationship, generally good diet and nutrition.
+
+--------------------------------------------------------
+
+**Filename**: Client_MedicalRecords.pdf
+**Page Number**: 20
+
+**General Facts**:
+- Name: Ian Levinsky
+- Date of Birth: 12/07/1989
+- Gender: Male
+- Age: 35 (calculated as of 04/30/2025)
+
+**Medical Conditions**:
+- Eye pain, bilateral (H57.13) noted on 03/29/2021. Cause: irritation after removing contacts. Symptoms lasted about 40 minutes.
+
+**Other Considerations**:
+- Diagnostics: No red flags noted during the assessment for eye pain. Follow-up recommended if symptoms worsen.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 27
+
+**Date of the Report**:
+- 01/15/2021
+
+**General Facts**:
+- Name: Ian
+- Age: 35 (calculated from Date of Birth: 12/07/1989 and current date: 04/30/2025)
+- Gender: Male
+
+**Labs and Measurements**:
+- SARS-CoV-2, NAA Test: Not Detected (Reported on 01/15/2021)
+- SARS-CoV-2, Antigen Test: Not Detected (Date of Service: 01/14/2021)
+
+**Other Considerations**:
+- **Diagnostics**: SARS-CoV-2 tests (NAA and Antigen) both returned negative results.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf, PAGE_NUMBER: 28
+
+**Date of the Report**:
+- 01/14/2021
+
+**Labs and Measurements**:
+- SARS-CoV-2, Antigen: Negative (Reported on 01/14/2021)
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf
+PAGE_NUMBER: 29
+
+**Date of the Report:**
+- 01/14/2021
+
+**Other Considerations:**
+- **Diagnostics:** SARS-CoV-2 Rapid Antigen Test: Negative; SARS-CoV-2 PCR Test: Ordered.
+- **Favorable Factors:** Patient stable and appropriate for testing; adherence to COVID-19 safety protocols including mask-wearing and hand hygiene.
+
+--------------------------------------------------------
+
+FILENAME: Client_MedicalRecords.pdf, PAGE_NUMBER: 30
+
+**Date of the Report**:
+- 01/13/2021 (Date of Service for Patient Survey)
+- 09/17/2024 (Immunization Record Date)
+
+**General Facts**:
+- Name: Ian Levinsky
+- Date of Birth: 12/07/1989
+- Age: 35 (calculated as of 04/30/2025)
+- Gender: Not explicitly mentioned, inferred as male based on name.
+- Race/Ethnicity: White
+
+**Substance Usage**:
+- Tobacco: Never used or smoked tobacco regularly.
+
+**Medical Conditions**:
+- No common health conditions reported (Anxiety, Arthritis, Asthma, Cancer, COPD, Depression, Diabetes, Drug/Alcohol dependence, Heart Disease, High Blood Pressure, Kidney Disease, Liver Disease).
+- No other medical issues reported.
+
+**Surgery History**:
+- Laterjet Shoulder Surgery (date not provided).
+
+**Prescription Usage**:
+- No regular medications reported.
+
+**Family History**:
+- First-degree relative with Cancer (specific type not mentioned).
+
+**Other Considerations**:
+- Allergies: None reported.
+- Sexual Activity: Yes, with women.
+
+--------------------------------------------------------
+

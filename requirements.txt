@@ -1,0 +1,11 @@
+# prod
+langchain-openai
+langchain
+langchain-core
+langgraph
+langsmith
+python-dotenv
+pydantic
+sentry-sdk
+langgraph-cli[inmem]
+aiofiles

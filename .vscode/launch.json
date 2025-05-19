@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Langgraph Dev Server",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${command:python.interpreterPath}/../langgraph",
+            "python": "${command:python.interpreterPath}",
+            "envFile": "${workspaceFolder}/.env",
+            "args": [
+                "dev",
+                "--debug-port", "5679",
+                "--port", "8124",
+                "--wait-for-client",
+                "--no-browser"
+            ],
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python Debugger: Remote Attach",
+            "type": "debugpy",
+            "request": "attach",
+            "connect": {
+                "host": "localhost",
+                "port": 5679
+            },
+            "pathMappings": [
+                {
+                    "localRoot": "${workspaceFolder}",
+                    "remoteRoot": "."
+                }
+            ]
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Launch Langgraph + Attach Debugger",
+            "configurations": ["Langgraph Dev Server", "Python Debugger: Remote Attach"],
+            "stopAll": true
+        }
+    ]
+} 
